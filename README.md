@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a simple QuickSpec template used when creating a new file in Xcode.
+This is a simple [Quick](https://github.com/Quick/Quick) template used when creating a new file in Xcode.
 
 ![](.images/xcode-template-selection.png)
 
